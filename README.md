@@ -1,1 +1,1 @@
-# BlogWiz
+blooggy
