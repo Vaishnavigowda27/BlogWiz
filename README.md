@@ -118,4 +118,4 @@ Markdown/PDF export
 Integration with CMS platforms
 
 📄 License
-MIT License © [Your Name]
+MIT License © [Vaishnavi]
