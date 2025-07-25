@@ -116,6 +116,3 @@ Add SEO suggestions
 Markdown/PDF export
 
 Integration with CMS platforms
-
-📄 License
-MIT License © [Vaishnavi]
