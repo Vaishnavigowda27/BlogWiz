@@ -1,4 +1,4 @@
- BlogWiz AI - A Blog Assistant
+📝 BlogWiz AI - A Blog Assistant
 
 📌 Overview
 
