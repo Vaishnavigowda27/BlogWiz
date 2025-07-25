@@ -1,6 +1,7 @@
-📝 AI Blog Writing Assistant
+ BlogWiz AI - A Blog Assistant
 
 📌 Overview
+
 The AI Blog Writing Assistant is a web-based tool that helps users generate high-quality blog content using powerful AI models. It allows users to input a topic or prompt and receive well-structured blog posts, complete with image suggestions, tone customization, and content moderation. The goal is to reduce the effort required for content creation while maintaining creativity, safety, and relevance.
 
 ✨ Features
