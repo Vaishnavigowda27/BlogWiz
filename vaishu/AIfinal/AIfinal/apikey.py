@@ -1,8 +1,8 @@
-# pexels_api_key="Yzf1fHBHN8nhONUMteTAbW62HxuLRAbHqjZe6LXO2Ri5i4eyG3APtJmV"
+# pexels_api_key=""
 
-google_gemini_api_key="AIzaSyD83Wy8Ee-2iJ-Mri6JYmRFAk685ajxXsM"
+google_gemini_api_key=""
 
-serpapi_key="c09bd8b177bbcf02657abf8886eeee06b8c330e7fe177985d0e985ba98dd65b4"
+serpapi_key=""
 
 
 # & "C:\Program Files\Python310\python.exe" -m streamlit run app.py
