@@ -1,6 +1,6 @@
 # BlogWiz – AI-Powered Blog Generator
 
-[🌐 Visit the Live Site](https://blogwiz-ai.netlify.app)
+[🌐 Visit the Live Site](https://blog-wiz.netlify.app/)
 
 BlogWiz is an intelligent content-generation platform that lets you create high-quality, SEO-friendly blogs using AI.  
 Powered by **Google Gemini**, **SerpAPI**, and a sleek **glassmorphism UI**, BlogWiz brings modern design and AI content creation into one seamless tool.
